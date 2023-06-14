@@ -14,6 +14,9 @@
       "iconURL": "https://files.enmity.app/icon-altstore.png",
       "tintColor": "6D00FF",
       "size": 76794285,
-      "beta": false
+      "beta": false,
+      "screenshotURLs": [
+         "https://raw.githubusercontent.com/Decoder0007/SideStoreSources/master/338A0A2F-8CCB-4E36-88B2-BE73AFA589B8.png"
+      ]
     }]
 }
